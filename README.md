@@ -5,3 +5,5 @@
 3. atenpas/gpd: dataset, https://rll.berkeley.edu/bigbird/
 
 4. opencv c++ install from source: https://www.cnblogs.com/xypbk/p/14850345.html
+
+5. opencv with extra modules opencv-contrib install from source, c++, https://docs.opencv.org/4.5.2/d7/d9f/tutorial_linux_install.html, https://github.com/opencv/opencv_contrib, https://blog.csdn.net/weixin_44796670/article/details/115900538
