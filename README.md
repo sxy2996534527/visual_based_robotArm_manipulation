@@ -22,7 +22,5 @@ https://blog.csdn.net/Eeko_x/article/details/104835154
 ### atenpas/gpg
 #### configuration error
 1. boost error, ‘boost::this_thread’ has not been declared: https://openclassrooms.com/forum/sujet/probleme-de-compilation-avec-boost-87075
-('''
-#include <boost/thread.hpp>
-''')
+' #include <boost/thread.hpp> '
 3. boost error linking libarary, https://www.coder.work/article/3233619
