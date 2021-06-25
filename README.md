@@ -1,6 +1,6 @@
 # visual based slam & grasping
 
-## environment issues
+## 1. environment issues
 ### ros network error
 https://blog.csdn.net/nanianwochengshui/article/details/105702188
 
@@ -12,7 +12,17 @@ https://blog.csdn.net/nanianwochengshui/article/details/105702188
 2. https://github.com/opencv/opencv_contrib
 3. https://blog.csdn.net/weixin_44796670/article/details/115900538
 
-## reference projects
+## 2. reference projects
 ### atenpas/gpd
 #### dataset
 https://rll.berkeley.edu/bigbird/
+#### how to use
+https://blog.csdn.net/Eeko_x/article/details/104835154
+
+### atenpas/gpg
+#### configuration error
+1. boost error, ‘boost::this_thread’ has not been declared: https://openclassrooms.com/forum/sujet/probleme-de-compilation-avec-boost-87075
+(''')
+#include <boost/thread.hpp>
+(''')
+3. boost error linking libarary, https://www.coder.work/article/3233619
