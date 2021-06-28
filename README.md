@@ -31,3 +31,4 @@ https://blog.csdn.net/Eeko_x/article/details/104835154
 
 ### PointNetGPD
 1. https://github.com/lianghongzhuo/PointNetGPD
+2. dataset YCB: http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/
