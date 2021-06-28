@@ -17,7 +17,8 @@ https://blog.csdn.net/nanianwochengshui/article/details/105702188
 #### dataset
 https://rll.berkeley.edu/bigbird/
 #### how to use
-https://blog.csdn.net/Eeko_x/article/details/104835154
+1. https://blog.csdn.net/Eeko_x/article/details/104835154
+2. ros launch demo: https://github.com/atenpas/gpd/blob/forward/launch/tutorial1.launch
 
 ### atenpas/gpg
 #### configuration error
