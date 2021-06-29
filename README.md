@@ -1,3 +1,4 @@
+[NEMS_2017_grasping_poster.pdf](https://github.com/sxy2996534527/visual_based_robotArm_manipulation/files/6731198/NEMS_2017_grasping_poster.pdf)
 # visual based slam & grasping
 
 ## 1. environment issues
