@@ -25,6 +25,8 @@ https://rll.berkeley.edu/bigbird/
 1. boost error, ‘boost::this_thread’ has not been declared: https://openclassrooms.com/forum/sujet/probleme-de-compilation-avec-boost-87075
 `#include <boost/thread.hpp>`
 2. boost error linking libarary, https://www.coder.work/article/3233619
+#### Q & A
+1. How to change the configuration so only the grasp from above are selected? -- https://githubmemory.com/repo/atenpas/gpd/issues/110
 
 ### dexnet
 1. https://github.com/BerkeleyAutomation/dex-net
