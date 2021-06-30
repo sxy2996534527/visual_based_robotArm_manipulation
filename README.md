@@ -43,4 +43,5 @@ https://rll.berkeley.edu/bigbird/
 1. https://github.com/kevinzakka/pyphoxi
 2. https://github.com/TakakiNishio/photoneo_test
 3. https://github.com/Matrox-Imaging/Photoneo_PhoXi-3D-Scanner_MXSP4
-4. Photoneo相机-pcl点云处理: https://blog.csdn.net/baidu_40840693/article/details/103013762 
+4. Photoneo相机-pcl点云处理: https://blog.csdn.net/baidu_40840693/article/details/103013762
+5. hand-eye calibration: https://wiki.photoneo.com/index.php/Robot-Camera_Calibration_Tool
