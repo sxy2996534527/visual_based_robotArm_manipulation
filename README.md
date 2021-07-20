@@ -37,6 +37,9 @@ https://rll.berkeley.edu/bigbird/
 1. https://github.com/lianghongzhuo/PointNetGPD
 2. dataset YCB: http://ycb-benchmarks.s3-website-us-east-1.amazonaws.com/
 
+### 6dof graspnet
+1. https://github.com/NVlabs/6dof-graspnet
+
 ## 3. hardware
 ### photoneo
 #### open source:
