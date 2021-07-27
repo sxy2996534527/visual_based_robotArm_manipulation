@@ -43,6 +43,9 @@ https://rll.berkeley.edu/bigbird/
 ### robotic-grasping
 1. https://github.com/skumra/robotic-grasping
 
+### contact_graspnet
+1. https://github.com/NVlabs/contact_graspnet
+
 ## 3. hardware
 ### photoneo
 #### open source:
