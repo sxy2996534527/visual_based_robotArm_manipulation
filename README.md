@@ -40,6 +40,9 @@ https://rll.berkeley.edu/bigbird/
 ### 6dof graspnet
 1. https://github.com/NVlabs/6dof-graspnet
 
+### robotic-grasping
+1. https://github.com/skumra/robotic-grasping
+
 ## 3. hardware
 ### photoneo
 #### open source:
