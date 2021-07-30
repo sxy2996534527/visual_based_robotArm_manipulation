@@ -54,3 +54,6 @@ https://rll.berkeley.edu/bigbird/
 3. https://github.com/Matrox-Imaging/Photoneo_PhoXi-3D-Scanner_MXSP4
 4. Photoneo相机-pcl点云处理: https://blog.csdn.net/baidu_40840693/article/details/103013762
 5. hand-eye calibration: https://wiki.photoneo.com/index.php/Robot-Camera_Calibration_Tool, https://blog.csdn.net/yaked/article/details/77161160?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-17.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-17.control, https://blog.csdn.net/weixin_42156097/article/details/109753021, https://blog.csdn.net/weixin_42156097/article/details/110957847?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162545252516780269853907%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=162545252516780269853907&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v29-3-110957847.pc_v2_rank_blog_default&utm_term=pcl&spm=1018.2226.3001.4450
+
+## 4. 点云标注
+1. https://blog.csdn.net/Dujing2019/article/details/104068721
