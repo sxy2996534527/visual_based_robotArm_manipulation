@@ -57,3 +57,7 @@ https://rll.berkeley.edu/bigbird/
 
 ## 4. 点云标注
 1. https://blog.csdn.net/Dujing2019/article/details/104068721
+
+## unseen object segmentation in robotic environment
+1. https://github.com/chrisdxie/uois#models
+2. https://github.com/BerkeleyAutomation/sd-maskrcnn
