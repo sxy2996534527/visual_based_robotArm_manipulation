@@ -64,4 +64,4 @@ https://rll.berkeley.edu/bigbird/
 3. Class Agnostic的物体检测/分割, https://blog.csdn.net/eight_Jessen/article/details/105547549
 
 ## 5. Suction-Based Grasping
-1. https://github.com/andyzeng/arc-robot-vision
+1. https://github.com/andyzeng/arc-robot-vision: lua和torch环境配置的问题太多，暂时放弃
