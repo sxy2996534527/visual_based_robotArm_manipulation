@@ -64,4 +64,7 @@ https://rll.berkeley.edu/bigbird/
 3. Class Agnostic的物体检测/分割, https://blog.csdn.net/eight_Jessen/article/details/105547549
 
 ## 5. Suction-Based Grasping
-1. https://github.com/andyzeng/arc-robot-vision: lua和torch环境配置的问题太多，暂时放弃
+### 1. https://github.com/andyzeng/arc-robot-vision: lua和torch环境配置的问题太多，暂时放弃
+#### 1. install torch with cuda10.0: https://github.com/nagadomi/waifu2x/issues/253#issuecomment-445448928
+#### 2. Unsupported HDF5 version: 1.10.0, https://github.com/deepmind/torch-hdf5/issues/76
+
