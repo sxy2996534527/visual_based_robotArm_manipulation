@@ -70,6 +70,7 @@ https://rll.berkeley.edu/bigbird/
 
 ### (2). suction grasp estimate： https://github.com/triwahyuu/suction_grasp_estimate, 未给出预训练模型
 ### (3). cv pipeline: https://github.com/jayef0/cv_pipeline
+### (4). OpenCV_for_suction_grasps: https://github.com/shisha101/OpenCV_for_suction_grasps, 代码bug太多，未给出使用示例
 
 ## 6. planar grasp
 ### (1). grasp detector: https://github.com/lerrel/Grasp-Detector
