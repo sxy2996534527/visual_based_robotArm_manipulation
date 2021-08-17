@@ -68,5 +68,8 @@ https://rll.berkeley.edu/bigbird/
 #### a. install torch with cuda10.0: https://github.com/nagadomi/waifu2x/issues/253#issuecomment-445448928
 #### b. Unsupported HDF5 version: 1.10.0, https://github.com/deepmind/torch-hdf5/issues/76
 
-### (2). suction grasp estimat： https://github.com/triwahyuu/suction_grasp_estimate
+### (2). suction grasp estimate： https://github.com/triwahyuu/suction_grasp_estimate, 未给出预训练模型
 ### (3). cv pipeline: https://github.com/jayef0/cv_pipeline
+
+## 6. planar grasp
+### (1). grasp detector: https://github.com/lerrel/Grasp-Detector
