@@ -74,3 +74,4 @@ https://rll.berkeley.edu/bigbird/
 
 ## 6. planar grasp
 ### (1). grasp detector: https://github.com/lerrel/Grasp-Detector
+#### a. 环境： python2 tensorflow1.0 测试效果良好
